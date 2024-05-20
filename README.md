@@ -2,12 +2,8 @@
 Repositorio para realizar el hack de PR
 
 # hack-pull-request-1 Alfa
-### Integrantes
-
-- [Gustavo] Alfa
-- [Andrés]  Bravo 
-- [Edwuard] Charlie
-- [Alona ]  Delta
-
-# Tipo de actividad
-- Feature
+### Integrantes TEAM 9
+- Alfa / Gustavo
+- Bravo / Andres
+- Charlie / Edwuard
+- Delta / Alona
